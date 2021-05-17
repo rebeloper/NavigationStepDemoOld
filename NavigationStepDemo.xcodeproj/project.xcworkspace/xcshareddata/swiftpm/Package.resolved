@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftUIPlus",
+        "repositoryURL": "https://github.com/rebeloper/SwiftUIPlus.git",
+        "state": {
+          "branch": null,
+          "revision": "623b39a7ab536d8690193970c1412b08c296717d",
+          "version": "0.0.238"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
